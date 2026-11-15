@@ -1,0 +1,109 @@
+{
+ "app": "Adboards Concept App",
+ "start": "login",
+ "screens": [
+  {
+   "slug": "login",
+   "name": "Login",
+   "page": "Design",
+   "w": 375,
+   "h": 812,
+   "elements": 43,
+   "links": 3
+  },
+  {
+   "slug": "expertise-level",
+   "name": "Expertise level",
+   "page": "Design",
+   "w": 375,
+   "h": 812,
+   "elements": 34,
+   "links": 5
+  },
+  {
+   "slug": "campaigns-none",
+   "name": "Campaigns -- None",
+   "page": "Design",
+   "w": 375,
+   "h": 812,
+   "elements": 66,
+   "links": 2
+  },
+  {
+   "slug": "campaigns-normal",
+   "name": "Campaigns -- Normal",
+   "page": "Design",
+   "w": 375,
+   "h": 812,
+   "elements": 93,
+   "links": 3
+  },
+  {
+   "slug": "campaigns-done",
+   "name": "Campaigns -- Done",
+   "page": "Design",
+   "w": 375,
+   "h": 812,
+   "elements": 44,
+   "links": 5
+  },
+  {
+   "slug": "campaigns-category",
+   "name": "Campaigns -- Category",
+   "page": "Design",
+   "w": 375,
+   "h": 812,
+   "elements": 34,
+   "links": 4
+  },
+  {
+   "slug": "campaigns-form",
+   "name": "Campaigns -- Form",
+   "page": "Design",
+   "w": 375,
+   "h": 812,
+   "elements": 28,
+   "links": 4
+  },
+  {
+   "slug": "tamplate-choose",
+   "name": "Tamplate -- Choose ",
+   "page": "Design",
+   "w": 375,
+   "h": 963,
+   "elements": 87,
+   "links": 7
+  },
+  {
+   "slug": "tamplate-select",
+   "name": "Tamplate -- Select",
+   "page": "Design",
+   "w": 375,
+   "h": 873,
+   "elements": 42,
+   "links": 4
+  },
+  {
+   "slug": "tamplate-details",
+   "name": "Tamplate -- Details",
+   "page": "Design",
+   "w": 375,
+   "h": 939,
+   "elements": 64,
+   "links": 4
+  },
+  {
+   "slug": "tamplate-editor",
+   "name": "Tamplate -- Editor",
+   "page": "Design",
+   "w": 375,
+   "h": 812,
+   "elements": 43,
+   "links": 4
+  }
+ ],
+ "warnings": [],
+ "fontPackages": [
+  "inter"
+ ]
+}
